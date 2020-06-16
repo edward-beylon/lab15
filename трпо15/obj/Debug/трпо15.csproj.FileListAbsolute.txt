@@ -1,0 +1,7 @@
+E:\STUDING\2019-2020\ТРПО\трпо15\трпо15\obj\Debug\трпо15.csprojAssemblyReference.cache
+E:\STUDING\2019-2020\ТРПО\трпо15\трпо15\obj\Debug\трпо15.csproj.CoreCompileInputs.cache
+E:\STUDING\2019-2020\ТРПО\трпо15\трпо15\bin\Debug\трпо15.exe.config
+E:\STUDING\2019-2020\ТРПО\трпо15\трпо15\bin\Debug\трпо15.exe
+E:\STUDING\2019-2020\ТРПО\трпо15\трпо15\bin\Debug\трпо15.pdb
+E:\STUDING\2019-2020\ТРПО\трпо15\трпо15\obj\Debug\трпо15.exe
+E:\STUDING\2019-2020\ТРПО\трпо15\трпо15\obj\Debug\трпо15.pdb
